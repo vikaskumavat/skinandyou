@@ -1,2 +1,0 @@
-# skinandyou
-for appointment
