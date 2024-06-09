@@ -1,0 +1,514 @@
+Sr. No,Company Name,Medicine Category,Medicine Name,Content,SKU Code
+1,Percos,itching,Calminox Anti Itch lotion,"Hemp seeds oil, Physavie, Zanthoxylum",Calminox__Anti_Itch_lotion
+2,Percos,Face wash,Nosoap face wash,"Pentavitin, DPanthenol, Cetyl Alcohol, Stearyl Alcohol",Nosoap_face_wash
+3,Percos,Psoriasis,Protar k Lotion,"Ketoconazole 2%, Coal Tar 4%",Protar_k_Lotion
+4,Percos,Psoriasis,Protar Ointment,"Coaltar 6%, Salicylic acid 3%",Protar_Ointment
+5,Percos,Psoriasis,Protar Lotion 100ml /200ml,"Caoltar 4.25%, Salicylic acid 2%",Protar_Lotion_100ml__200ml
+6,Percos,Psoriasis,Ultitar CS lotion / ointment,"Clobetasol propionate 0.05%, Salicylic Acid 3%, Coaltar solution 5%",Ultitar_CS_lotion___ointment
+7,Percos,Anti fungal,Nidos AF body wash,"Ketoconazole, Tea tree oil, Aloe vera & Peppermint Oil",Nidos_AF_body_wash
+8,Percos,Acne,Nexna,"NAcetyl Cysteine 600mg, Inositol 200mg, Alpha Lipoic Acid 200mg, Chromium Picolinate 300mcg, Zinc Gluconate 45mg.",Nexna
+9,Percos,pigmentation,Nexna TX 250mg,Tranexamic Acid 250 mg,Nexna_TX_250mg
+10,Uzderm,Hormonal,Tab. FURIT,Berberine 277.25 MG+Chromium picolinate 201.5 MCG+DchiroInositol 12.5 MG+Grape seed extract 4.25 MG+Lmethylfolate 45 MCG+Myoinositol 500 MG+Vitamin D3 400 IU,Tab__FURIT_
+11,Uzderm,Oil,Elahar Oil,"Biotin, Saw Palmetto, Tocotrienol, Coconut oil & olive oil",Elahar_Oil
+12,Cipla add revibra c 10 capsules,Anti fungal,Tab. Forcan 50mg,fluconazole 50/150/200 mg,Tab__Forcan_50mg
+13,Cipla add revibra c 10 capsules,Anti fungal,Tab. Forcan 150mg,NA,Tab__Forcan_150mg
+14,Cipla add revibra c 10 capsules,Anti fungal,Tab. Forcan 200mg,NA,Tab__Forcan_200mg
+15,Cipla add revibra c 10 capsules,Hair Serum,Adgain Grof serum,Bioactive concentrate for hair rejuvenation,Adgain_Grof_serum
+16,Cipla add revibra c 10 capsules,Sunscreen,Rivela Lite tint spf 50+ Sunscreen,,Rivela_Lite_tint_spf_50__Sunscreen
+17,Cipla add revibra c 10 capsules,Allergic,Tab. Montair10,Levocetirizine Hydrochloride and Montelukast sodium,Tab__Montair10
+18,Cipla add revibra c 10 capsules,sh,Sebowash Shampoo,Fluocinolone Acetonide,Sebowash_Shampoo
+19,Cipla add revibra c 10 capsules,Allergic,Tab. MontairLC,Levocetirizine Hydrochloride and Montelukast sodium,Tab__MontairLC
+20,ISDIN,Sunscreen,ISDIN fusion water photoprotector spf 50+ Sunscreen,NA,ISDIN_fusion_water_photoprotector_spf_50__Sunscreen
+21,ISDIN,Night cream,ISDIN Hyaluronic Concentrate serum,NA,ISDIN_Hyaluronic_Concentrate_serum
+22,ISDIN,Eyes,ISDIN Kox eyes cream,"Vit K oxide 1%, Haloxyl, eyeliss, hyalurionic acid, sodium dextran sulphate",ISDIN_Kox_eyes_cream
+23,ISDIN,Night cream,ISDIN Flavo C Forte cream,NA,ISDIN_Flavo_C_Forte_cream
+24,Skininnovatio,Sunscreen,Heliocare360 Mineral Tolerance fluid,NA,Heliocare360_Mineral_Tolerance_fluid
+25,Eris Oaknet,Anti fungal,Hydroheal Nova,colloidal nanosilver + Coconut oil + vitamin E + hyaluronic acid + glycerin,Hydroheal_Nova
+26,Eris Oaknet,Anti fungal,"Onabet cream/ lotion/ Powder,",Sertaconazole Nitrate BP 20 mg,"Onabet_cream__lotion__Powder,"
+27,Eris Oaknet,Anti fungal,Tab Flucos 150mg/ Gel/ Powder/ Lotion,Fluconazole(150/ 200 /Mg),Tab_Flucos_150mg__Gel__Powder__Lotion
+28,Eris Oaknet,NA,Tab Flucos 200mg,NA,Tab_Flucos_200mg
+29,Eris Oaknet,pigmentation,Demelan Cream,Kojic Acid Dipalmitate 2% + glycolic acid 10% + Arbutin 5%,Demelan_Cream
+30,Eris Oaknet,Hyperpigmentation body,Demelan light lotion,"Terowhite,licoroce",Demelan_light_lotion_
+31,Eris Oaknet,Anti fungal,"Amrolstar cream, nail lacquer, lotion",Amorolfine HCI 0.25 %W/W),"Amrolstar_cream,_nail_lacquer,_lotion"
+32,Eris Oaknet,Anti fungal,Amrolstar nail lacquer,Amorolfine 5% w/v,Amrolstar_nail_lacquer
+33,Eris Oaknet,Anti fungal,Amrolstar lotion,Amorolfine Hydrochloride 0.25% w/v lotion,Amrolstar_lotion
+34,Eris Oaknet,Anti fungal,Gris ODT Tablet / cream,Terbinafine 250mg,Gris_ODT_Tablet___cream
+35,Eris Oaknet,Anti fungal,Flucos ITZ 50mg caps,Itraconazole 50mg,Flucos_ITZ_50mg_caps
+36,Eris Oaknet,NA,Flucos ITZ 100mg caps,Itraconazole100mgcapsules,Flucos_ITZ_100mg_caps
+37,Eris Oaknet,NA,Flucos ITZ 200mg caps,Itraconazole 200mg capsules,Flucos_ITZ_200mg_caps
+38,Eris Oaknet,Steroid,Cosvate crem / ointment,Clobetasol Propionate 0.05%w/v,Cosvate_crem_____ointment
+39,Eris Oaknet,Psoriasis,Cosvate sor ointment,Clobetasol Propionate 0.05%w/v Calcipotriol 0.005% w/v,Cosvate_sor_ointment
+40,Eris Oaknet,Psoriasis,Cosvate G,Clobetasol Propionate 0.05%w/v Gentamicin sulphate 0.1% w/w,Cosvate_G
+41,Eris Oaknet,Anti allergic,Prugo Tablets,Hydroxyzine HCI 10mg / 25mg Tablets,Prugo_Tablets
+42,Eris Oaknet,NA,Tab. Bilacalm 20mg,Bilastine (20mg),Tab__Bilacalm_20mg_
+43,Eris Oaknet,Vitamin,Tab. Vibrox,Omega3 Fatty Acids +Antioxidants +Multivitamin + Multimineral,Tab__Vibrox
+44,Mankind,NA,Lulibrut 10,Luliconazole (1% w/w),Lulibrut_10
+45,Mankind,NA,Lulibrut 10mg cream,Luliconazole (1% w/w),Lulibrut__10mg_cream
+46,Mankind,NA,Lulibrut 25mg cream,Luliconazole (1% w/w),Lulibrut__25mg_cream
+47,Mankind,NA,Lulibrut 50mg cream,Luliconazole (1% w/w),Lulibrut__50mg_cream
+48,Mankind,NA,Tab. Hairbless,LCysteine: 50 mg+ Calcium Pantothenate 5mg + Niacinamide 12 mg + LArginine 50 mg + DLMethionine 40 mg + Zinc 10mg + LLysine 20mg + Biotin 30mcg + Inositol 10mg + iron10 mg + copper 1.7mg+ Selenium 40mcg,Tab__Hairbless
+49,Mankind,Acne,Cap. Zitblow 20mg,Micronized ISOTRETINOIN10/20 MG,Cap__Zitblow_20mg
+50,Mankind,NA,Cap. Zitblow 10mg,Micronized ISOTRETINOIN10/20 MG,Cap__Zitblow_10mg
+51,Mankind,Hair,Xampu KZ Shampoo,Ketoconazole + Ichthammol+ Dpanthenol+ Aloevera,Xampu_KZ_Shampoo
+52,Mankind,Hair,Chekfall hair 5% Solution,Minoxidil 5% W/v,Chekfall_hair_5Percent__Solution
+53,Mankind,NA,Chekfall hair 10% Solution,Minoxidil 10% W/v,Chekfall_hair_10Percent_Solution_
+54,Mankind,NA,Chekfall F F5% Solution,Minoxidil 5% Finasteride W/v 10%w/v Finasteride 0.1% w/v,Chekfall_F_F5Percent_Solution
+55,Mankind,Hair,Chekfall F 10% Solution,Minoxidil 5% Finasteride W/v 10%w/v Finasteride 0.1% w/v,Chekfall_F_10Percent_Solution
+56,Regaliz,Skin product,Truderma Regen Night repair serum,"Retinol, Revivyl, Plant stem cells, Niacinamide, HA",Truderma_Regen_Night_repair_serum
+57,Regaliz,Skin product,Truderma Absolute Radiance serum,"Diglucosyl Gallic Acid,alpha arbutin, tetrahydrocurcumin , niacinamide",Truderma_Absolute_Radiance_serum
+58,Regaliz,Moisturiser,Truderma Moisturizing Lotion,NA,Truderma_Moisturizing_Lotion
+59,Regaliz,Acne,Acnepad,Alcohol & parben free,Acnepad
+60,Regaliz,Hair Serum,Reinvia HS serum,Ceramides,Reinvia_HS_serum
+61,Regaliz,Lip,Hydronic lip balm,"Shea Butter, Jojoba oil, Sweet almond oil, Vit E",Hydronic_lip_balm
+62,Nourrir,Moisturiser,Atop Exm moisturiser,"Dead sea mud Mineral based Hand, Face & body cream",Atop_Exm_moisturiser
+63,Nourrir,Body wash,Nourrir Hyper Moisturizing Shower & Bath oil,"Hydrogenated Castor Oil, Rosa Canina Fruit Oil, Chamomilla Recutita Oil",Nourrir_Hyper_Moisturizing_Shower_&_Bath_oil
+64,Adroit,Vitamins,Tab. D3 Sip,cholecalciferol 60000 IU,Tab__D3_Sip
+65,Adroit,Vitamins,Tab. Skin Fay,Ceramosides 35 mg,Tab__Skin_Fay
+66,Adroit,Vitamins,Tab. Glutone Sx2,"LGlutathione (Reduced) 600mg., Skin Ax2 150mg, NAcetyl Cysteine 400 mg, Vitamin C 40 mg,Elemental Selenium 40 mcg",Tab__Glutone_Sx2
+67,Adroit,Face wash,Glutone face Wash,"Dermawhite ,Hydrolysed Almond Protein, Tocopheryl Acetate (Vitamin E)",Glutone_face_Wash
+68,Adroit,Skin product,Glutone 2% Hyaluronic Acid Serum,2% Hyaluronic Acid + Serum+ Vegan collagen peptides 30ml,Glutone_2Percent_Hyaluronic_Acid_Serum
+69,Adroit,Skin product,Glutone Hydra,"LGlutathione 500mg, & Ceramosides 35mg",Glutone_Hydra
+70,Adroit,Skin Tablet,Glutone Tab,"LGlutathione 500mg, Alpha Lipoic acid 100mg",Glutone_Tab
+71,Adroit,Fungal,Tab. Tebisure,Terbinafine 250mg,Tab__Tebisure
+72,Dermatica,Skin product,Reti Bright Night cream,Retino(Liposomal nanoencapsulation) + NANO Kojic asid + Hyaluronic Acid,Reti_Bright_Night_cream
+73,Dermatica,Skin product,HA PURE serum,Hyaluronic Acid+ Repulpami ER + Palmaria Palmata,HA_PURE_serum
+74,Dr Reddy,Skin product,Tab. Xyzal,levocetirizine 2.5mg per 5ml syrup/5mg tablets /10mg,Tab__Xyzal_
+75,Dr Reddy,allergic,Atarax 10mg,Hydroxyzine HCL 10 and 25mg tablets/ syrup / Injection /drops,Atarax_10mg
+76,Dr Reddy,allergic,Atarax Anti itch lotion,"pramoxine, calamine",Atarax_Anti_itch_lotion
+77,Dr Reddy,Moisturiser,Venusia Max Lotion moisturiser,"Purified Water, Propylene Glycol, Cyclomethicone, Emulsifying Wax",Venusia_Max_Lotion_moisturiser
+78,Dr Reddy,Moisturiser,Venusia max cream Moisturiser,"Propylene Glycol, Emulsifying Wax, Glycerin, Cyclomethicone, Shea Butter",Venusia_max_cream_Moisturiser
+79,Dr Reddy,Moisturiser,Venusia Derm face & body Moisturiser,"Water, Propylene Glycol, Emulsifying Wax, Cyclomethicone",Venusia_Derm_face_&_body_Moisturiser
+80,Dr Reddy,Moisturiser,Venusia Acne control Moisturiser,"Glycerin, Propylene Glycol, Niacinamide,AquaButylene Glycol",Venusia_Acne_control_Moisturiser
+81,Dr Reddy,Vitamins,Cap. Revibra c10,NA,Cap__Revibra_c10
+82,Dr Reddy,Hair,Mintop Gain Solution,Finasteride and Minoxidil,Mintop_Gain_Solution
+83,Dr Reddy,Hair,Mintop Pro Solution,NA,Mintop_Pro_Solution
+84,Bioderma,Moisturiser,Sebium Hydra moisturiser,Oily skin,Sebium_Hydra_moisturiser
+85,Bioderma,Moisturiser,Sensibio Forte Moisturiser,Rosacea,Sensibio_Forte_Moisturiser
+86,Bioderma,Skin product,Sebium Night Peel,Exfoliating acne,Sebium_Night_Peel
+87,Bioderma,Face wash,Bioderma Pigmentobio Foaming cream,Salicylic acid granules for acne,Bioderma_Pigmentobio_Foaming_cream
+88,Bioderma,Moisturiser,Bioderma Sebium gel mousant,Oily skin,Bioderma_Sebium_gel_mousant
+89,Bioderma,NA,Bioderma Cicabio Arnica cream,NA,Bioderma_Cicabio_Arnica_cream
+90,Bioderma,NA,Bioderma Atoderm Cream,NA,Bioderma_Atoderm_Cream
+91,Bioderma,NA,Bioderma Atoderm Intensive Baume,V dry skin,Bioderma_Atoderm_Intensive_Baume
+92,Bioderma,NA,Bioderma Atoderm Intensive Gel Moussant,NA,Bioderma_Atoderm_Intensive_Gel_Moussant
+93,Bioderma,NA,Bioderma Photoderm AKN MAT SPF30 (40ml),NA,Bioderma_Photoderm_AKN_MAT_SPF30__40ml_
+94,Bioderma,Acne,Sebium Kerato+,"1.8% salycylic Acid, 10% Malic Asid ester",Sebium_Kerato_
+95,Galderma,Acne,Aklife cream,Trfarotene 50 cream,Aklife_cream
+96,Galderma,Acne,Adaferin gel,Adapalene (0.1% w/w),Adaferin_gel
+97,Galderma,Face wash,Cetaphil foaming cleanser,NA,Cetaphil_foaming_cleanser
+98,Galderma,Face wash,Cetaphil Oil control foam face wash,NA,Cetaphil_Oil_control_foam_face_wash
+99,Galderma,Moisturiser,Cetaphil pro oil contro moisturizing lotion,NA,Cetaphil_pro_oil_contro_moisturizing_lotion
+100,Galderma,Mask,Cetaphil pro oil control purifying clay mask,NA,Cetaphil_pro_oil_control_purifying_clay_mask
+101,Galderma,Skin product,Cetaphil Bright Healthy Radiance,NA,Cetaphil_Bright_Healthy_Radiance
+102,Galderma,Face wash,Benzac Ac gel wash,"Benzoyl Peroxide, Acrylates Copolymer, Glycerol, Carbomer 940, Sodium C14C16 Olefin Sulfonate",Benzac_Ac_gel_wash
+103,Galderma,NA,Epiduo 0.1%/ 2.5% gel,adapalene and benzoyl peroxide.,Epiduo_0_1Percent__2_5Percent_gel
+104,Galderma,Hyper pigmentation,Biluma cream,"Octinoxate, Propylene Glycol, Light Liquid Paraffin, Cosmowax D, Cetostearyl Alcohol, Kojic Acid Dipalmitate, Olivem 700",Biluma_cream
+105,Galderma,Melasma,Triluma cream,"fluocinolone acetonide 0.01% (0.1 mg), hydroquinone 4% (40 mg), and tretinoin 0.05% (0.5 mg).",Triluma_cream
+106,Galderma,NA,Cetaphil pro Urea 4%,NA,Cetaphil_pro_Urea_4Percent
+107,Galderma,NA,Cetaphil pro Urea 10%,NA,Cetaphil_pro_Urea_10Percent
+108,Galderma,NA,Desowen Lotion,Desonide(0.05 %),Desowen_Lotion
+109,Iberia,Hair,Folten for Women Shampoo,Tricalgoxyl & Panax ginseng extract,Folten_for_Women_Shampoo
+110,Iberia,Hair,Folten for men Shampoo,Tricosaccaride & capsicum extract,Folten_for_men_Shampoo
+111,Iberia,Hair,Folten Sebo control Normalizzante,Vitamin B 6 & Biotin and Sage extract,Folten_Sebo__control_Normalizzante
+112,Dermaceutics,Hair,Tab. Hairfix advance,"betasitosterol, brewer's yeast, Lcysteine, pumpkin seed extract, methylsulfonylmethane (MSM), vitamin B5, LArginine, gotu kola, niacin, zinc, vitamin E and biotin.",Tab__Hairfix_advance
+113,Dermaceutics,Skin product,Tab. Dermalight,"LGlutathione, active form with NAcetyl LCysteine (Lglutathione booster) Grape seed extract",Tab__Dermalight
+114,Dermaceutics,Vitamin,Tab. Eterage,"astaxanthin, curcumin, collagen, alphalipoic acid, pomegranate and green tea extracts.",Tab__Eterage
+115,Dermaceutics,NA,Hairfix oil,NA,Hairfix_oil
+116,Dermaceutics,Vitamin,Tab. OMEEX Softgels,"Flaxseed oil, Alpha linoleic Acid, Linoleic Acid, oleic Acid.",Tab__OMEEX_Softgels
+117,Fix Derma,Body acne,SalyzapAZ,"Azelaic acid, salicylic asid, retinol",SalyzapAZ
+118,Fix Derma,Body wash,Salyzap for body acne spray,"Aqua, Propylene Glycol, Propanol2, Salicylic Acid, Triethanolamine, Capryloyl Glycerin,",Salyzap_for_body_acne_spray
+119,Fix Derma,Body Lotion,FCL Bio retinol body lotion,"Bio retinol, phytosterol & Vitamin B5",FCL_Bio_retinol_body_lotion
+120,Fix Derma,Skin product,FCL AHA Lightening gel HQ,"Glycolic acid, Hydroquinone, Alpha Arbutin & Hyaluronic Acid",FCL_AHA_Lightening_gel_HQ
+121,Fix Derma,Skin product,FCL Hydrating Mask,"Red Iron Oxide,Multifruit Natural AHA, Titanium Dioxide & Hyaluronic Acid",FCL_Hydrating_Mask
+122,Fix Derma,Skin product,FCL De Tan Mask,"Natural AHA, Milk Protein, Kaolin, Bentonite",FCL_De_Tan_Mask
+123,Fix Derma,Skin product,FCL AHA Lightening gel,"Glycolic acid, alpha arbutin, grapefruit extract, multifruit extract",FCL_AHA_Lightening_gel
+124,Fix Derma,Skin product,FCL Skin Brightening complex,"alpha arbutin, milk protein, hyaluronic acid, belides and natural AHA",FCL_Skin_Brightening_complex
+125,Fix Derma,Eyes,FCL Eye refining matrix,"Vitamin C, Superoxide Dismutase, Hyaluronic Acid, Hydrolyzed Collagen",FCL_Eye_refining_matrix
+126,ISISPHARMA,Eyes,NEOTONE eye cream,"Aqua (Water), Dimethicone, Glycolic Acid, Caprylic/Capric Triglyceride, Alcohol Denat,",NEOTONE_eye_cream
+127,ISISPHARMA,Face wash,Teen Derm Gel face wash,NA,Teen_Derm_Gel_face_wash
+128,ISISPHARMA,NA,Bodytone reveal,NA,Bodytone_reveal
+129,ISISPHARMA,Makeup removal,SENSYLIA Aqua Makeup removal,Makeup removal,SENSYLIA_Aqua_Makeup_removal
+130,Kshipra,Anti ageing cream,Retorna cream,"trylagen PCB,Acetyl hexapeptide – 3. Argireline, Sodium hyaluronateHyluronic acid, Mimosa tenuiflora extract, Licorice extract, Aloe vera, Allantoin",Retorna_cream
+131,Kshipra,Hair,Alopel hair loss foam,"Telogen Effluvium, AGA",Alopel_hair_loss_foam
+132,Kshipra,Skin product,Melanil Antispot cream,NA,Melanil_Antispot_cream
+133,Kshipra,scar,Cicatrix cream,Methylpolysiloxane. Ceramide 3ceramide 6II phytophingosine ceramide1sodium lauroyl lactylate cholesterolxanhtan gum. Cetearyl alcohol. Glycerin,Cicatrix_cream
+134,Nutrova fish oil 84,Vitamins,Nutrova collagen + Antioxidants,NA,Nutrova_collagen___Antioxidants
+135,Aesticare,Vitamin,Tab. aestigain,"Collagen peptides, Vitamin C , Astaxanthin and biotin",Tab__aestigain
+136,Aesticare,Hair,Tab. Haract premium,Vitamin B7 / Biotin / Vitamin H(30.0 Mcg) + Pisum Sativum (Pea)(300.0 Mg) + Niacinamide,Tab__Haract_premium
+137,Aesticare,Vitamin,Enlight 1000mg,?।,Enlight_1000mg
+138,Bioreva,Eyes,Bioreva eye repair,NA,Bioreva_eye_repair
+139,Bioreva,NA,Bioreva radiance repair cream,tranexmic acid,Bioreva_radiance_repair_cream
+140,Sesderma azelac ru,Vitamin C serum,Sesderma C vit radiance,"Cyclopentasiloxane, Propanediol, Pentylene Glycol, Isostearyl Isostearate",Sesderma_C_vit_radiance
+141,Sesderma azelac ru,Anti Ageing,Sesderma Retiage cream,"Hydrogenated Polydecene, Cetearyl Ethylhexanoate, Sorbitan Stearate",Sesderma_Retiage_cream
+142,Akumentis,Hair Serum,Xtra denser anti aging hair serum,NA,Xtra_denser_anti_aging_hair_serum
+143,Tricos,Vitamins,Tab. Dtamin,cholecalciferol 60000 IU,Tab__Dtamin
+144,Fillmed,Skin product,5HP Youth Cream (50ml),NA,5HP_Youth_Cream__50ml_
+145,Inca Life science,Pain,Tab. Chymoral forte,"trypsinchymotrypsin (6:1) 1,00,000 AU",Tab__Chymoral_forte
+146,Inca Life science,Pain,Tab. Chymoral AP,"trypsinchymotrypsin (6:1) 50,000 AU + Aceclofenac 100mg +Paracetamol 325mg",Tab__Chymoral_AP
+147,Inca Life science,Pain,Tab. Chymoral Plus,Diclofenac(50.0 Mg) + TripsinChymotripsin(50000.0 Au),Tab__Chymoral_Plus
+148,Inca Life science,calcium,Tab. Shelcal XT,"cholecalciferol (vitamin D3), calcium, methylcobalamin (vitamin B12), Lmethyl folate calcium and pyridoxine (vitamin B6)",Tab__Shelcal_XT
+149,Inca Life science,calcium,Tab. Shelcal HD,Elemental Calcium (500mg) and Vitamin D3 (500IU),Tab__Shelcal_HD
+150,Inca Life science,calcium,Tab. Shelcal 500,Elemental Calcium (500mg) and Vitamin D3 (500IU),Tab__Shelcal_500
+151,Emcure (EMCUTIX),Tinea infection,Cap. Ceastra SB 65mg,Itraconazole capsules 65/130 mg,Cap__Ceastra_SB_65mg
+152,Emcure (EMCUTIX),NA,Cap. Ceastra SB 130mg,NA,Cap__Ceastra_SB_130mg
+153,Emcure (EMCUTIX),Immunomodulator,Tab. Iminoral 50mg,Cyclosporine USP 50mg / 100mg,Tab__Iminoral_50mg
+154,Emcure (EMCUTIX),NA,Tab. Iminoral 100mg,NA,Tab__Iminoral_100mg
+155,Emcure (EMCUTIX),Anti allergic,Tab. Emtofa XR,Tofacitinib extended release tab 11mg,Tab__Emtofa_XR
+156,Emcure (EMCUTIX),,Tab. Emtofa 5,Tofacitinib Tablets IP5 mg,Tab__Emtofa_5
+157,Intas,Immunomodulator,Takfa cream,tacrolimus 0.1% ointment / lotion,Takfa_cream
+158,Intas,Steroid,Momesone XL cream,Mometasone furoate 0.1% cream,Momesone_XL_cream
+159,Intas,Fungal,Nailrox cream,Ciclopirox olamine 1% cream,Nailrox_cream
+160,Intas,Anti fungal,Nailrox lacquer,Ciclopirox olamine 8% lacquer,Nailrox_lacquer
+161,Intas,Psoriasis,Actoid capsules,acitretin 10/25 mg capsules,Actoid_capsules
+162,Intas,Antibiotic,Tab. Minotas ER 45mg,Minocycline 45/65 mg tablets,Tab__Minotas_ER_45mg
+163,Intas,NA,Tab. Minotas ER 65mg,NA,Tab__Minotas_ER_65mg
+164,Intas,Anti allergic,Tab. Bilert 20mg,Bilastine 20mg /40mg,Tab__Bilert_20mg
+165,Intas,NA,Tab. Bilert 40mg,NA,Tab__Bilert_40mg
+166,Intas,Anti allergic,Allegix lotion,Pramoxine hydrochloride LOTION,Allegix_lotion
+167,Intas,Dandruff Shampoo,Truzap Shampoo,Ciclopirox 1% w/v and Zinc pyrithione 1% w/v shampoo,Truzap_Shampoo
+168,Intas,Dandruff Shampoo,Longon KZ Shampoo,Ketoconazole 2% + Zinc pyrithione 1% shampoo,Longon_KZ_Shampoo
+169,Usv,Oral Sun Protection,Golite OSP,"50% Mediterranean Rosemary,50% Grapefruit Extract from Mediterranean region",Golite_OSP
+170,Usv,Psoriasis,Cap. Trustretin,acitretin 10/25 mg capsules,Cap__Trustretin
+171,Usv,Moisturiser,Seba Med Sensitive cream,"Myreth3 myristate, glycerin, Cetearyl alcohol, Vitamin E, Dimethicone, Sodium PCA, Aqua",Seba_Med_Sensitive_cream_
+172,Usv,Moisturiser,Seba Med Hydrating Body lotion,"Shea Butter, Vit. E, Brassica Campestris sterols, Dicaprylyl Ether, Glycerin, Potato starch modifies, Sodium Lactate, Aqua.",Seba_Med_Hydrating_Body_lotion
+173,Usv,Moisturiser,Seba Med Shower Gel,50% No soap cleanser + 50% Avocado oil,Seba_Med_Shower_Gel
+174,Usv,Anti fungal,Ericlear cream,Eberconazole 1%,Ericlear_cream
+175,Usv,Anti fungal,Ericlear Lotion,Eberconazole 1%,Ericlear_Lotion
+176,Ajanta (Avecea),NA,Clenia face wash,NA,Clenia_face_wash
+177,Ajanta (Avecea),Moisturiser,Acquasoft Clycerin cream 15%,Clycerin cream 15%,Acquasoft__Clycerin_cream_15Percent
+178,Sun Pharma,Anti fungal,Tab. Aztofa,Tofacitinib,Tab__Aztofa
+179,Sun Pharma,Anti fungal,Tab. Aztofa XR,Tofacitinib extended release tab,Tab__Aztofa_XR
+180,Sun Pharma,Anti fungal,Zimba lotion,Ozenoxacin cream 1% w/w,Zimba_lotion
+181,Sun Pharma,NA,Tab. Bilashine 20mg,Bilashine 20mg,Tab__Bilashine_20mg
+182,Sun Pharma,NA,CWIN cream,Ciclopirox Olamine crem /lotion/ ointment,CWIN_cream
+183,Sun Pharma,NA,CWIN lotion,Ciclopirox Olamine crem /lotion/ ointment,CWIN_lotion
+184,Sun Pharma,NA,Cap. Alcros SB 130,Fungicros,Cap__Alcros_SB_130
+185,Sun Pharma,Anti fungal,Cap. Alcros SB 50,Fungicros,Cap__Alcros_SB_50
+186,Glenmark,Hair,Hair 4U F 5% solution,Moinoxidil & Finasteride topical solution 5%,Hair_4U_F_5Percent_solution
+187,Glenmark,Hair,Hair 4U Boost solution,Moinoxidil & Finasteride topical solution 5%,Hair_4U_Boost_solution
+188,Glenmark,Hair,Hair 4U Pro 5% (with procapil & capixy),Moinoxidil & Finasteride topical solution 5%,Hair_4U_Pro_5Percent__with_procapil_&_capixy_
+189,Glenmark,Hair,Inbilt 5 solution,Minoxidil 5% solution,Inbilt_5_solution
+190,Glenmark,Hair,Inbilt F solution,Moinoxidil & Finasteride solution 5%,Inbilt_F_solution
+191,Glenmark,Psoriasis,Halovate cream/ ointment / lotion,Halobetasol propionate 0.05% W/w,Halovate_cream__ointment___lotion
+192,Glenmark,Psoriasis,HalovateS,Halobetasol propionate 0.05% W/w + Salicylic acid 3% w/w,HalovateS
+193,Glenmark,Psoriasis,HalovateF,Halobetasol propionate 0.05% W/w + Fusidic acid 2% w/w,HalovateF
+194,Glenmark,Acne,Deriva BPO gel,Adapalene microspheres 0.1% w/w + benzoyl peroxide 2.5% w/w gel,Deriva_BPO_gel
+195,Glenmark,Acne,Minym ER 45mg/ 65mg,Minocycline extended release tab 45/65 mg,Minym_ER_45mg__65mg
+196,Glenmark,Acne,Revize Micro 0.025/0.04,Tretinoin gel USP0.04% w/w & 0.025% w/w,Revize_Micro_0_025_0_04
+197,Glenmark,Anti fungal,Lulican cream / lotion,Luliconazole,Lulican_cream___lotion
+198,Glenmark,Anti fungal,Lulican XL cream,Luliconazole,Lulican_XL_cream
+199,Glenmark,Atopic,Tacroz Ointment,Tacrolimus 0.03% w/w,Tacroz_Ointment
+200,Glenmark,Atopic,Tacroz forte XL,Tacrolimus 0.1% w/w,Tacroz_forte_XL
+201,Ranbaxy,NA,Fucidin cream,Fucidic acid/ sodium fusidate 2% w/w,Fucidin_cream
+202,Ranbaxy,NA,Fucidin Ointment,Fucidic acid/ sodium fusidate 2% w/w,Fucidin_Ointment
+203,Ranbaxy,NA,Tab. Teczine 5mg,Levocetrizine 5mg tablets,Tab__Teczine_5mg
+204,Ranbaxy,Anti fungal,Lulifin cream,Luliconazole cream,Lulifin_cream
+205,Ranbaxy,Acne,Cap. Minoz OD,Minocycline 100mg modified release capsules,Cap__Minoz_OD
+206,Ranbaxy,Acne,Cap. Minoz,Minocycline 50/ 100mg capsules,Cap__Minoz
+207,Ipca,acne,Acne OC moisturiser,sebum regulating moisturiser,Acne_OC_moisturiser_
+208,Ipca,Hair Serum,Kera XL M Solution,"Minoxidil 5%, Biochanin A & AcetylTetrapeptide 3 in 5% complex",Kera_XL_M_Solution
+209,Ipca,NA,Tab. Fexova 120mg,Fexofenadine 120mg,Tab__Fexova_120mg
+210,Ipca,NA,Tab. Fexova 180mg,Fexofenadine 180mg,Tab__Fexova_180mg
+211,Ipca,Anti fungal,Luliz cream,"Luliconazole 1% 15g, 30g, 50g cream",Luliz_cream_
+212,Ipca,Anti fungal,Cap. ZTI SB,"Itraconazole 50mg, 65mg, 100mg, & 130mg",Cap__ZTI_SB
+213,Ipca,Anti fungal,Eberfun cream,Eberconazole 1% 30g,Eberfun_cream
+214,Ipca,Anti fungal,Keraglo AD Body wash,Ketoconazole 2%,Keraglo_AD_Body_wash
+215,Ipca,Psoriasis,Lacsoft cream,Buffered Lacsoft 12% 50gm,Lacsoft_cream
+216,Ipca,Psoriasis,Folitrax LP gel,Methotrexate 1% Topical gel/ 20g,Folitrax_LP_gel
+217,Ipca,NA,Tab. Azifast 250mg,azithromycin 250mg,Tab__Azifast_250mg
+218,Ipca,NA,Tab. Azifast 500,azithromycin 500mg,Tab__Azifast_500
+219,Ipca,Acne,Azifast Gel,azithromycin 2% 20g,Azifast_Gel
+220,galcare,NA,Tab. Pynomax ODP 500mg,Tranexamic Acid 250 mg+ pine bark extract 150mg,Tab__Pynomax_ODP_500mg
+221,galcare,NA,Tab. Pynomax ODP 250mg,Tranexamic Acid 250 mg+ pine bark extract 150mg,Tab__Pynomax_ODP_250mg
+222,galcare,NA,DutaMax lotion,Dutasteride 0.025% w/v,DutaMax_lotion
+223,KLM,Anti fungal,Cap. Onitraz SB,Itraconazole 50mg,Cap__Onitraz_SB_
+224,KLM,NA,Cap. Onitraz SB forte,Itraconazole 100mg,Cap__Onitraz_SB_forte_
+225,gohnson & gohnson,Moisturiser,Aveeno Daily moisturising lotion,NA,Aveeno_Daily_moisturising_lotion
+226,gohnson & gohnson,Body wash,Aveeno Daily Body wash,NA,Aveeno_Daily_Body_wash
+227,gohnson & gohnson,Moisturiser,Aveeno Skin Relief moisturising lotion,NA,Aveeno_Skin_Relief_moisturising_lotion
+228,gohnson & gohnson,Body wash,Aveeno Skin Relief Body wash,NA,Aveeno_Skin_Relief_Body_wash
+229,gohnson & gohnson,Eczema,Aveeno Dermexa Emollient Cream,NA,Aveeno_Dermexa_Emollient_Cream
+230,GraceDerma,NA,Cap. Antoxide HC,NA,Cap__Antoxide_HC
+231,GraceDerma,Steroid,Tab. Gracecort6,Deflazacort 6 mg.,Tab__Gracecort6
+232,GraceDerma,NA,Gracecort cream / lotion,Desonide(0.05 %),Gracecort_cream___lotion
+233,GraceDerma,NA,Tab. Gracecort 30mg,Deflazacort 30 mg.,Tab__Gracecort_30mg
+234,Torrent,Anti fungal,Impinoz cream,Ozenoxacin cream 1% w/w,Impinoz_cream
+235,Torrent,Anti fungal,Atonide gel lotion,Desonide(0.05 %),Atonide_gel_lotion
+236,NA,Hair,Tab. Lonitab 2.5 mg,Oral minoxidil,Tab__Lonitab_2_5_mg
+237,Alembic Pharmaceuticals Ltd,Anti fungal,Tab. Roxid 150,Roxithromycin (150mg),Tab__Roxid_150_
+238,NA,Vitamin,Tab Enerc 1000,NA,Tab_Enerc_1000_
+239,CeraVe,Moisturiser,Cerave foaming cleanser,NA,Cerave_foaming_cleanser
+240,CeraVe,NA,Cerave Hydrating cleanser,NA,Cerave_Hydrating_cleanser
+241,CeraVe,NA,Cerave Moisturiser cream,NA,Cerave_Moisturiser_cream
+242,CeraVe,NA,Cerave Hydrate Moisturiser lotion,NA,Cerave_Hydrate_Moisturiser_lotion
+243,Encore,NA,Verilich hair growth serum,Foremost hair growth Serum,Verilich_hair_growth_serum
+244,NA,NA,Persol Forte cream,Sulpher+BPO,Persol_Forte_cream
+245,NA,NA,Persol AC 2.5 / 5 gel,Benzoyl Peroxide 2.5%w/w /5% w/w,Persol_AC_2_5___5_gel
+246,NA,NA,Ducray Nutricerat Mask,Ultra nutritive conditioning Mask,Ducray_Nutricerat_Mask
+247,NA,NA,Ducray Neoptide Lotion,NA,Ducray_Neoptide_Lotion
+248,NA,NA,Ducray Squanorm Anti dandruff Shampoo,Anti dandruff,Ducray_Squanorm_Anti_dandruff_Shampoo
+249,NA,NA,XEPINOXIN Cream,Ozenoxacin 1 %,XEPINOXIN_Cream
+250,NA,Fungal,Tab. Vorifast,Voriconazole 200mg tablet,Tab__Vorifast
+251,NA,Acne,Avene Cleanance Gel,NA,Avene_Cleanance_Gel
+252,NA,Acne,Avene Cleanance Sunscreen,NA,Avene_Cleanance_Sunscreen
+253,NA,NA,Avene Cicalfate Plus cream,Repairing protective cream,Avene_Cicalfate_Plus_cream
+254,NA,NA,Avene Cicalfate cream,Post procedure damage repair,Avene_Cicalfate_cream
+255,NA,NA,Avene Cicalfate Lip,NA,Avene_Cicalfate_Lip
+256,NA,NA,Tab. Oxiglow E,Vit E Capsules with Omega fatty acids,Tab__Oxiglow_E
+257,NA,NA,Bularid L 40,Bilastine 40mg tablets,Bularid_L_40
+258,NA,Soap,Clearzit Soap,Azelaic acid 2.5% & wheat Germ oil 0.5%,Clearzit_Soap
+259,NA,NA,Melano TX cream,NA,Melano_TX_cream
+260,NA,NA,DEPIGLOW,"L Glutathione, Pycnogenole , Vitamin C & Alpha lipoic acid",DEPIGLOW
+261,NA,NA,DEPIGLOW250,"L Glutathione, Pycnogenole , Vitamin C & Alpha lipoic acid",DEPIGLOW250
+262,NA,NA,DEPIGLOWFORTE,"L Glutathione, Pycnogenole , Vitamin C & Alpha lipoic acid",DEPIGLOWFORTE
+263,NA,NA,DEPIGLOWULTRA,"L Glutathione, Pycnogenole , & Alpha lipoic acid",DEPIGLOWULTRA
+264,NA,NA,ISOGRACE 5/10/20/30,Isotretinoin 5/10/20/30,ISOGRACE_5_10_20_30
+265,NA,NA,elahar hair oil,saw palmetto,elahar_hair_oil_
+266,NA,NA,aloket shampoo,"Ketaconzole 2%, Coaltar 4%",aloket_shampoo_
+267,NA,NA,Plaintar Lotion,Coal tar solution 5.0% w/v,Plaintar_Lotion
+268,NA,NA,Cosalic Lotion,"Coal tar, Saliicylic acid",Cosalic_Lotion
+269,NA,NA,Melano TX od,Tranexamic Acid sustained release 500mg,Melano_TX_od
+270,NA,NA,Melano TX cream,Tranexamic Acid (10% w/w)+ Kojic Acid (2% w/w)+ Arbutin (1.5% w/w)+ Magnesium (1% w/w)+ Vitamin E (1% w/w),Melano_TX_cream
+271,NA,NA,Iminoral,Cyclosporin 50mg /100mg soft gelatin capsule,Iminoral
+272,NA,NA,Biopelle Retinol 0.05%,NA,Biopelle_Retinol_0_05Percent
+273,NA,NA,Yulift,Firming & lifting cream,Yulift
+274,NA,NA,HERPIVAL 500,NA,HERPIVAL_500
+275,NA,NA,HERPIVAL Ig,NA,HERPIVAL_Ig
+276,NA,NA,Kenz soap,Ketoconazole 2%,Kenz_soap
+277,NA,NA,Tab. KENZ,Ketoconazole tablets IP,Tab__KENZ
+278,NA,NA,CANROLFIN Cream,Amorolfine cream 0.25% w/w,CANROLFIN_Cream
+279,NA,NA,Tab. MELBOOST,"Picrorhiza Kurroa, Gingko biloba, Amino acids & Vitamin tablet",Tab__MELBOOST
+280,NA,NA,MELBOOST Solution,DECA Peptide Solution 5ml,MELBOOST_Solution
+281,NA,NA,Tab. InstaMax HC,Beta carotene+Zinc+Selenium+ Copper,Tab__InstaMax_HC_
+282,NA,NA,InstaMax protein powder,"15g protein in 30g serving, Biotin, DHA, Aas, Ca, Zn, Multi vitamins",InstaMax_protein_powder
+283,NA,NA,Softeron Capsule,"Docusate sodium, Iron and Folic Acid (vitamin B9).Folic acid",Softeron_Capsule
+284,NA,NA,Androanagen Tablet,"Taurine, beta, sitosterol, Zinc, green, tea copper",Androanagen_Tablet
+285,NA,NA,Ever Black Tablet,Biotin 10mg and CP 200mg,Ever_Black_Tablet
+286,NA,NA,Tab. Ascorvan plus,"Vit c 1000 mg, beta catotene 50mg",Tab__Ascorvan_plus
+287,NA,NA,Ivcor 12 mg,ivermectin,Ivcor_12_mg_
+288,NA,NA,Picspot,Vit c,Picspot
+289,NA,NA,Keracnyl Face wash,Anti acne,Keracnyl_Face_wash
+290,NA,NA,Bioderma node Ds shampoo,for oily & dandruff hair,Bioderma_node_Ds_shampoo_
+291,NA,NA,Cap. Acutret 30mg,NA,Cap__Acutret_30mg
+292,NA,NA,Cap. Acutret 20mg,NA,Cap__Acutret_20mg
+293,NA,NA,Cap. Acutret 10mg,NA,Cap__Acutret_10mg
+294,NA,NA,Cap. Acutret 5mg,NA,Cap__Acutret_5mg
+295,NA,NA,Apremilast Apxenta,in psariasis and hidradenitis supparativa,Apremilast_Apxenta
+296,NA,NA,Tab Cytomid,is flutamide 250,Tab_Cytomid
+297,NA,NA,Melacare cream,"Hydroquinone, tretinoin and steroid",Melacare_cream
+298,NA,NA,Biluma or triluma cream,NA,Biluma_or_triluma_cream
+299,NA,NA,Glyco 6 cream,NA,Glyco_6_cream
+300,NA,NA,Clearz Plus,NA,Clearz_Plus
+301,NA,NA,powercort shampoo,clobetosol propionate,powercort_shampoo
+302,NA,NA,Tracnil sachets,women and men,Tracnil_sachets
+303,NA,NA,Noreva Trio white XP,NA,Noreva_Trio_white_XP
+304,NA,NA,exfoliac global 6 cream,NA,exfoliac_global_6_cream
+305,NA,NA,Neutrogena t gel shampoo,NA,Neutrogena_t_gel_shampoo
+306,NA,NA,Acnedap dapsone,NA,Acnedap_dapsone
+307,NA,NA,Biopelle Retinol 0.05%,NA,Biopelle_Retinol_0_05Percent
+308,NA,NA,Betadine Powder,antiseptic and disinfectant agent,Betadine_Powder
+309,NA,NA,T Bact 2%,bacterial skin infections,T_Bact_2Percent
+310,NA,NA,Tab. Glycomet 500 SR,NA,Tab___Glycomet_500_SR
+311,NA,NA,Tab. Thyronorm 150mcg,NA,Tab__Thyronorm_150mcg
+312,AJANTA,NA,Ajanta Carofit Ultra Cream (15gm),NA,Ajanta_Carofit_Ultra_Cream__15gm__
+313,AJANTA,NA,Ajanta Peroclin Gel 15gm 2.5%,NA,Ajanta_Peroclin_Gel_15gm_2_5Percent_
+314,AJANTA,NA,Ajanta Tab: Carofit Plus (10T),NA,Ajanta_Tab:_Carofit_Plus__10T__
+315,AJANTA,NA,Ajanta Vaniza Gel (15gm),NA,Ajanta_Vaniza_Gel__15gm__
+316,SKIN INNOVATION,NA,Alovera Plant Exosomes,NA,Alovera_Plant_Exosomes
+317,NA,NA,Arnica Ointment (25gm),NA,Arnica_Ointment__25gm_
+318,AURIGA,NA,Auriga Flavonex Cream 50ml,NA,Auriga_Flavonex_Cream_50ml
+319,AURIGA,NA,Auriga SiNails Varnish 12 Ml,NA,Auriga_SiNails_Varnish_12_Ml
+320,AVENE,NA,Avene Thermal Water 50ml,NA,Avene_Thermal_Water_50ml
+321,AVENE,NA,Avene Very High Prot Spf 50 Cream,NA,Avene_Very_High_Prot_Spf_50_Cream
+322,NA,NA,Aziderm 20% Gel,NA,Aziderm_20Percent_Gel
+323,IPCA,NA,BDH Tab : Keraglo Forte (10T),NA,BDH_Tab_:_Keraglo_Forte__10T_
+324,BIODERMA,NA,Bioderma Photoderm SPOT SPF50 Cream (30ml),NA,Bioderma_Photoderm_SPOT_SPF50_Cream__30ml_
+325,BIODERMA,NA,Bioderma Sebium Pore Refiner 30ml,NA,Bioderma_Sebium_Pore_Refiner_30ml
+326,BIODERMA,NA,Bioderma Sensibio H2O (100ml),NA,Bioderma_Sensibio_H2O__100ml_
+327,BIODERMA,NA,Bioderma White Objective Serum (30ml),NA,Bioderma_White_Objective_Serum__30ml_
+328,NA,NA,Bionova Tab : Azifast 500 (3T),NA,Bionova_Tab_:_Azifast_500__3T_
+329,NA,NA,Bodytone Reveal,NA,Bodytone_Reveal
+330,ZO SKIN HEALTH,NA,BRIGHTALIVE,NA,BRIGHTALIVE
+331,CETAPHIL,NA,Cetaphil BiLuma Cream,NA,Cetaphil_BiLuma_Cream
+332,CETAPHIL,NA,Cetaphil Cleansing Lotion (125ml),NA,Cetaphil_Cleansing_Lotion__125ml_
+333,CETAPHIL,NA,Cetaphil Epiduo Gel 15gm,NA,Cetaphil_Epiduo_Gel_15gm
+334,CETAPHIL,NA,Cetaphil Moisturising Cream (80gm),NA,Cetaphil_Moisturising_Cream__80gm_
+335,CETAPHIL,NA,Cetaphil Restroderm Body Wash,NA,Cetaphil_Restroderm_Body_Wash
+336,CETAPHIL,NA,Cetaphil Sun SPF 50+ Light Gel,NA,Cetaphil_Sun_SPF_50__Light_Gel
+337,CETAPHIL,NA,Cetaphil TriLuma Rd Cream,NA,Cetaphil_TriLuma_Rd_Cream
+338,CETAPHIL,NA,Cetaphil UVA/UVB Tube (50ml),NA,Cetaphil_UVA_UVB_Tube__50ml_
+339,NA,NA,Chekfall F Topical Sotut,NA,Chekfall_F_Topical_Sotut
+340,CIPLA,NA,Cipla 8X Shampoo (100ML),NA,Cipla_8X_Shampoo__100ML_
+341,CIPLA,NA,Cipla Saslic (DS) Foaming Wash (100ml),NA,Cipla_Saslic__DS__Foaming_Wash__100ml_
+342,CIPLA,NA,Cipla Saslic Foaming Wash (60ml),NA,Cipla_Saslic_Foaming_Wash__60ml_
+343,CIPLA,NA,Cipla Tugain 2% Foam (60gms),NA,Cipla_Tugain_2Percent_Foam__60gms_
+344,CIPLA,NA,Cipla Tugain 2% Gel (60gms),NA,Cipla_Tugain_2Percent_Gel__60gms_
+345,CIPLA,NA,Cipla Tugain 5% Foam (60gms),NA,Cipla_Tugain_5Percent_Foam__60gms_
+346,CIPLA,NA,Cipla VC15 Vitamin C Serum (15ml),NA,Cipla_VC15_Vitamin_C_Serum__15ml_
+347,NA,NA,Coherrent Inno Reducer Caps (60LC),NA,Coherrent_Inno_Reducer_Caps__60LC_
+348,NA,NA,Cosalic Solution,NA,Cosalic_Solution
+349,Spectra Medical Pvt Ltd,NA,Cosmelan 2,NA,Cosmelan_2
+350,CURATIO,NA,Curatio Banatan Cream (25gm),NA,Curatio_Banatan_Cream__25gm_
+351,CURATIO,NA,Curatio Ega Cream (30gm),NA,Curatio_Ega_Cream__30gm_
+352,CURATIO,NA,Curatio Kojic Cream (25gm),NA,Curatio_Kojic_Cream__25gm_
+353,CURATIO,NA,Curatio Noskurf Lotion (100ml),NA,Curatio_Noskurf_Lotion__100ml_
+354,CURATIO,NA,Atarax anti itch lotion,NA,Atarax_anti_itch_lotion_
+355,CURATIO,NA,Curatio Sebo Bar,NA,Curatio_Sebo_Bar
+356,CURATIO,NA,Curatio Tab : Derantox (30T),NA,Curatio_Tab_:_Derantox__30T_
+357,CURATIO,NA,Curiao.Proanagen Lotion100ml,NA,Curiao_Proanagen_Lotion100ml
+358,SESDERMA,NA,CVit Eye Contour Cream 15ML,NA,CVit_Eye_Contour_Cream_15ML
+359,NA,NA,DCL Clay Mint Mask,NA,DCL_Clay_Mint_Mask
+360,NA,NA,DCL Hydrating Treatment Mask,NA,DCL_Hydrating_Treatment_Mask
+361,DR.REDDY,NA,Dr.Reddy's Cap.AntoxidHc,NA,Dr_Reddy's_Cap_AntoxidHc
+362,DR.REDDY,NA,Dr Reddy.Ebernet Cream 30gm,NA,Dr_Reddy_Ebernet_Cream_30gm
+363,DR.REDDY,NA,Dr.Reddy Venusia Cleanser,NA,Dr_Reddy_Venusia_Cleanser
+364,DUCARY,NA,Ducary Keracnyl Foaming Gel,NA,Ducary_Keracnyl_Foaming_Gel
+365,DUCARY,NA,Ducary Keracnyl Pp Cream 30ml,NA,Ducary_Keracnyl_Pp_Cream_30ml
+366,NA,NA,Elcon Ointment (10gm),NA,Elcon_Ointment__10gm_
+367,FOLTEN,NA,Elder Foltene Hair Tonic (100ml),NA,Elder_Foltene_Hair_Tonic__100ml_
+368,NA,NA,Elder Treclin Gel(10gm),NA,Elder_Treclin_Gel_10gm_
+369,NA,NA,Emolene (50gm),NA,Emolene__50gm_
+370,NA,NA,Espeler Brightening Peel Mask,NA,Espeler_Brightening_Peel_Mask
+371,GLOWENVY,NA,Ever Black Hair Oil,NA,Ever_Black_Hair_Oil
+372,NOREVA,NA,Exfoliac Foaming Gel,NA,Exfoliac_Foaming_Gel
+373,NOREVA,NA,Exfoliac Global 6 Severe Cream,NA,Exfoliac_Global_6_Severe_Cream
+374,FCL,NA,FCL Nigrifix Cream,NA,FCL_Nigrifix_Cream
+375,FILLERINA,NA,Fillerina 12HA Densifying Fill,NA,Fillerina_12HA__Densifying_Fill
+376,FILLERINA,NA,Fillerina Grade 2,NA,Fillerina_Grade_2
+377,FILORGA,NA,Filo Optim Eye,NA,Filo_Optim_Eye
+378,FILORGA,NA,Filo Sleep & Peel,NA,Filo_Sleep_&_Peel
+379,FOLTEN,NA,Foltene Hair &Scalp Treat Men,NA,Foltene_Hair_&Scalp_Treat_Men
+380,FOLTEN,NA,Foltene Hair & Scalp Treat Women,NA,Foltene_Hair_&_Scalp_Treat_Women
+381,NA,NA,Skin doctors Gamma Hydroxy Cream,NA,Skin_doctors_Gamma_Hydroxy_Cream
+382,NA,NA,Gentle Clesnser 200ml,NA,Gentle_Clesnser_200ml
+383,GLADERMA,NA,Gladerma Epiduo Gel Pump,NA,Gladerma_Epiduo_Gel_Pump
+384,GLADERMA,NA,Gladerma Loceryl Nail Lacquer,NA,Gladerma_Loceryl_Nail_Lacquer
+385,GLADERMA,NA,Gladerma Qilib Woman Topical Lotion,NA,Gladerma_Qilib_Woman_Topical_Lotion
+386,NA,NA,Glaxo Brevoxyl Creamy Wash (50gm),NA,Glaxo_Brevoxyl_Creamy_Wash__50gm_
+387,NA,NA,Glaxo Oilatum Bar (100 Gm),NA,Glaxo_Oilatum_Bar__100_Gm_
+388,NA,NA,Glaxo Oilatum Cream (40gm),NA,Glaxo_Oilatum_Cream__40gm_
+389,NA,NA,Glaxo Oilatum Emollient,NA,Glaxo_Oilatum_Emollient
+390,NA,NA,Glaxo TBact Cream (7.5gms),NA,Glaxo_TBact_Cream__7_5gms_
+391,NA,NA,GlaxoTopgraf Oint.0.1% (10gms),NA,GlaxoTopgraf_Oint_0_1Percent__10gms_
+392,GLENMARK,NA,Glenmark Demelan Cream (15gm),NA,Glenmark_Demelan_Cream__15gm_
+393,GLENMARK,NA,Glenmark Elovera Body Wash,NA,Glenmark_Elovera_Body_Wash
+394,GLENMARK,NA,Glenmark Elovera Cream (60gm),NA,Glenmark_Elovera_Cream__60gm_
+395,GLENMARK,NA,Glenmark Elovera Imf Cream,NA,Glenmark_Elovera_Imf_Cream
+396,GLENMARK,NA,Glenmark Elovera IMF Lotion (50ml),NA,Glenmark_Elovera_IMF_Lotion__50ml_
+397,GLENMARK,NA,Glenmark Elovera Lotion 150ml,NA,Glenmark_Elovera_Lotion_150ml
+398,GLENMARK,NA,Glenmark Hair 4 U 2% Spray,NA,Glenmark_Hair_4_U_2Percent_Spray
+399,GLENMARK,NA,Glenmark Imiqumod Cream,NA,Glenmark_Imiqumod_Cream
+400,GLENMARK,NA,Glenmark La Shield Lite Spf 30,NA,Glenmark_La_Shield_Lite_Spf_30
+401,GLENMARK,NA,Glenmark La Shield Sunscreen Spf 40,NA,Glenmark_La_Shield_Sunscreen_Spf_40
+402,GLENMARK,NA,Glenmark Momate Cream,NA,Glenmark__Momate_Cream
+403,GLENMARK,NA,Glenmark Momate F Cream 5g,NA,Glenmark_Momate_F_Cream_5g
+404,GLENMARK,NA,Glenmark.Onabet B Cream,NA,Glenmark_Onabet_B_Cream
+405,GLENMARK,NA,Glenmark.Onabet Cream,NA,Glenmark_Onabet_Cream
+406,GLENMARK,NA,Glenmark Onabet Powder 2%,NA,Glenmark_Onabet_Powder_2Percent
+407,GLENMARK,NA,Glenmark Scalpe Lotion (60ml),NA,Glenmark_Scalpe_Lotion__60ml_
+408,GLENMARK,NA,Glenmark Supirocin Ointment 5gm,NA,Glenmark_Supirocin_Ointment_5gm
+409,GLENMARK,NA,Glenmark Tacroz Fort Oint..1%,NA,Glenmark_Tacroz_Fort_Oint__1Percent
+410,GLENMARK,NA,Glenmark Triglow Cream (15gms),NA,Glenmark_Triglow_Cream__15gms_
+411,ADONIS,NA,Glutat Nano Shot,NA,Glutat_Nano_Shot
+412,NA,NA,Hairbless Tab,NA,Hairbless_Tab
+413,CANTABRIA LABS,NA,Heliocare Gelcream Light Spf 50,NA,Heliocare_Gelcream_Light_Spf_50
+414,CANTABRIA LABS,NA,Heliocare Oral Capsulas 60,NA,Heliocare_Oral_Capsulas_60
+415,NA,NA,Hydrarich Lips 10gm,NA,Hydrarich_Lips_10gm
+416,NA,NA,Hydrating Cleaner,NA,Hydrating_Cleaner
+417,NA,NA,IBrite Under Eye Roll On (16ml),NA,IBrite_Under_Eye_Roll_On__16ml_
+418,GLENMARK,NA,Intas Longon Cream (30gm),NA,Intas_Longon_Cream__30gm_
+419,NA,NA,Intas Morr F 3% (60ml),NA,Intas_Morr_F_3Percent__60ml_
+420,IPCA,NA,Ipca Bdiff A,NA,Ipca__Bdiff_A
+421,NA,NA,Johnson Roc Retinox Corrxion15gm,NA,Johnson__Roc_Retinox_Corrxion15gm
+422,IPCA,NA,Keraglo AntiDandruff Shampoo,NA,Keraglo_AntiDandruff_Shampoo
+423,NA,NA,Lacne Body Spray 360 50ml,NA,Lacne_Body_Spray_360__50ml
+424,NA,NA,Laroche Anthelios Xl Dry Toch Spf50+,NA,Laroche_Anthelios_Xl_Dry_Toch_Spf50_
+425,NA,NA,Laroche Effaclar A.I Corrector15ml,NA,Laroche_Effaclar_A_I_Corrector15ml
+426,NA,NA,Laroche Effaclar Duo+,NA,Laroche_Effaclar_Duo_
+427,NA,NA,Lashield Sunscrean SPF40,NA,Lashield_Sunscrean_SPF40
+428,NA,NA,Latisse 0.03% (3ml),NA,Latisse_0_03Percent__3ml_
+429,NA,NA,Sorilast cream,NA,Sorilast_cream
+430,NA,NA,LRP Effaclar K (30ml),NA,LRP_Effaclar_K__30ml_
+431,NA,NA,Lumixyl Skin Brightening System (30+60ml),NA,Lumixyl_Skin_Brightening_System__30_60ml_
+432,Spectra Medical Pvt Ltd,NA,Melan.Off Maintenance Cream 3,NA,Melan_Off_Maintenance_Cream_3
+433,RENEWCELL,NA,Melanopeel Cream,NA,Melanopeel_Cream
+434,RENEWCELL,NA,Melanopeel Professional,NA,Melanopeel_Professional
+435,NA,NA,Mesoroot Advance Capsules,NA,Mesoroot_Advance_Capsules
+436,NA,NA,Microlabs Aziderm Cream 20% 15gm,NA,Microlabs_Aziderm_Cream_20Percent_15gm
+437,NA,NA,Microlabs Glyco 6 30gm,NA,Microlabs_Glyco_6_30gm
+438,NA,NA,MSD Tab..Alaspan 10mg..,NA,MSD_Tab__Alaspan_10mg__
+439,NA,NA,Tab. Atarax,NA,Tab__Atarax_
+440,NA,NA,Tab montair lc,NA,Tab_montair_lc
+441,NA,NA,Tab xyzal 5 mg,NA,Tab_xyzal_5_mg_
+442,NA,NA,Neutrogena Body Mist SPF30 (141gm),NA,Neutrogena_Body_Mist_SPF30__141gm_
+443,FIXDERMA,NA,Nigrilite Cream 100gm,NA,Nigrilite_Cream_100gm
+444,DR REDDY,NA,Nourish Oat Moisturising,NA,Nourish_Oat_Moisturising
+445,NA,NA,Nusaude ProVeg Collagen,NA,Nusaude__ProVeg_Collagen
+446,NA,NA,Nutratopic Emollient Cream,NA,Nutratopic_Emollient_Cream
+447,NUTROVA,NA,Nutrova Fish Oil 84,NA,Nutrova_Fish_Oil_84
+448,NUTROVA,NA,Nutrova Pea Protien,NA,Nutrova_Pea_Protien
+449,ZO SKIN HEALTH,NA,Obagi Brightamax,NA,Obagi_Brightamax
+450,ZO SKIN HEALTH,NA,Obaji.Brightenex,NA,Obaji_Brightenex
+451,NA,NA,Occlubase Cream,NA,Occlubase_Cream
+452,PERCOS,NA,Paknet Creamy Wash (MRP 202),NA,Paknet_Creamy_Wash__MRP_202_
+453,NA,NA,Piramal FaceclinA (15gm),NA,Piramal_FaceclinA__15gm_
+454,NA,NA,Piramal Faceclin Gel (10gm),NA,Piramal_Faceclin_Gel__10gm_
+455,NA,NA,Piramal Tab : Exerge HC (10S),NA,Piramal_Tab_:_Exerge_HC__10S_
+456,NA,NA,Piramal Tab : Follihair (10S),NA,Piramal_Tab_:_Follihair__10S_
+457,NA,NA,Piramel Melaglow Rich Cream20gm,NA,Piramel_Melaglow_Rich_Cream20gm
+458,NA,NA,Ranbaxy Abzorb Powder (100gm),NA,Ranbaxy_Abzorb_Powder__100gm_
+459,NA,NA,Ranbaxy Amenixil Lotion (60ml),NA,Ranbaxy_Amenixil__Lotion__60ml_
+460,NA,NA,Ranbaxy Cap.Sodox,NA,Ranbaxy_Cap_Sodox
+461,NA,NA,Ranbaxy Diprobec N Cream (15gm),NA,Ranbaxy_Diprobec__N_Cream__15gm_
+462,NA,NA,Ranbaxy DiprobecS Ointment (15gm),NA,Ranbaxy_DiprobecS_Ointment__15gm_
+463,NA,NA,Ranbaxy Fucidin H Cream,NA,Ranbaxy_Fucidin_H_Cream
+464,GLENMARK,NA,Maxrich moisturiser,NA,Maxrich_moisturiser_
+465,NA,NA,Ranbaxy Sebifin Cream (15gm),NA,Ranbaxy_Sebifin_Cream__15gm_
+466,NA,NA,Ranbaxy Sebifin Plus Cream (15gm),NA,Ranbaxy_Sebifin_Plus_Cream__15gm_
+467,NA,NA,Ranbaxy Tab : Minoz OD (10S),NA,Ranbaxy_Tab_:_Minoz_OD__10S_
+468,NA,NA,Ranbaxy Xerina Cream,NA,Ranbaxy_Xerina_Cream
+469,NA,NA,Ranbaxy Yugard Cream (30gm),NA,Ranbaxy_Yugard_Cream__30gm_
+470,NA,NA,Retises Forte Cream,NA,Retises_Forte_Cream
+471,NA,NA,Retriderm Serum Mild 0.5%,NA,Retriderm_Serum_Mild_0_5Percent
+472,NA,NA,RL Revitabrow Advanced 3ml,NA,RL__Revitabrow_Advanced_3ml
+473,NA,NA,RL Revitalash Advanced 2ml,NA,RL_Revitalash_Advanced_2ml
+474,NA,NA,Rowan Regenail 7ml,NA,Rowan_Regenail_7ml
+475,FIXDERMA,NA,Salyzap Body Wash 200ml,NA,Salyzap_Body_Wash_200ml
+476,FIXDERMA,NA,Salyzap DT Gel,NA,Salyzap_DT_Gel
+477,NA,NA,SDWhite &Bright 50,NA,SDWhite_&Bright_50
+478,SEBAMED,NA,Sebamed Antiage Q10 Lift Eye (15ml),NA,Sebamed_Antiage_Q10_Lift_Eye__15ml_
+479,SEBAMED,NA,Sebamed Clear Face Foam (150ml),NA,Sebamed_Clear_Face_Foam__150ml_
+480,SEBAMED,NA,Sebamed Everyday Shampoo,NA,Sebamed_Everyday_Shampoo
+481,SEBAMED,NA,Sebamed Fresh Shower (200ml),NA,Sebamed_Fresh_Shower__200ml_
+482,SEBAMED,NA,Sebamed Lip Defence SPF30 (4.8gm),NA,Sebamed_Lip_Defence_SPF30__4_8gm_
+483,SEBAMED,NA,Sebamed Olive Face & Body Wash,NA,Sebamed_Olive_Face_&_Body_Wash
+484,BIODERMA,NA,Sebium Global,NA,Sebium_Global
+485,TRICOS,NA,Sebonac Face Wash,NA,Sebonac_Face_Wash
+486,BUMARK,NA,Sepi Vit,NA,Sepi_Vit
+487,NA,NA,Seraph Life Sciences Seraclob S Cream,NA,Seraph_Life_Sciences_Seraclob_S_Cream
+488,SESDERMA,NA,Sesderma Azelac RU Serum,NA,Sesderma_Azelac_RU__Serum
+489,SESDERMA,NA,Sessderma Retises Nano Peel 1% Gel 15ml,NA,Sessderma_Retises_Nano_Peel_1Percent_Gel_15ml
+490,NA,NA,Strea. Neotone Pigment Spot 25ml,NA,Strea__Neotone_Pigment_Spot_25ml
+491,NA,NA,Strea Unitone 4 White 15ml,NA,Strea_Unitone_4_White_15ml
+492,NA,NA,Tab.Epilight Advance 1000,NA,Tab_Epilight_Advance_1000
+493,NOREVA,NA,Triowhite Xp Night Care,NA,Triowhite_Xp_Night_Care
+494,REGALIZ,NA,Truderma Radiance Serum,NA,Truderma_Radiance_Serum
+495,REGALIZ,NA,Truederma I Luxe Eye Gel,NA,Truederma_I_Luxe_Eye_Gel
+496,NA,NA,VC X +20% Serum,NA,VC_X__20Percent_Serum
+497,VERAZ,NA,VerazHydrate Face Serum 30ml,NA,VerazHydrate_Face_Serum_30ml
+498,VICHY,NA,Vichy Aqualia Thermal,NA,Vichy_Aqualia_Thermal
+499,VICHY,NA,Vichy BiWhite Reveal Eye (15ml),NA,Vichy_BiWhite_Reveal_Eye__15ml_
+500,VICHY,NA,Vichy DCAntiD Shampoo (Dry Hair),NA,Vichy_DCAntiD_Shampoo__Dry_Hair_
+501,VICHY,NA,Vichy Dercos AntiDandruff (100ml),NA,Vichy_Dercos_AntiDandruff__100ml_
+502,VICHY,NA,Vichy Dercos AntiHair Men (12x6ml),NA,Vichy_Dercos_AntiHair_Men__12x6ml_
+503,VICHY,NA,Vichy Dercos AntiHair Women (12x6ml),NA,Vichy_Dercos_AntiHair_Women__12x6ml_
+504,VICHY,NA,Vichy Dercos Energ Shampoo (100ml),NA,Vichy_Dercos_Energ_Shampoo__100ml_
+505,VICHY,NA,Vichy Ideal White Deep Cleansing Foam,NA,Vichy_Ideal_White_Deep_Cleansing_Foam
+506,VICHY,NA,Vichy Lift Active Retinol H A Total Wrinkle Gel,NA,Vichy_Lift_Active_Retinol_H_A_Total_Wrinkle_Gel
+507,VICHY,NA,Vichy Lift Activ Retinol HA Eye (15ml),NA,Vichy_Lift_Activ_Retinol_HA_Eye__15ml_
+508,VICHY,NA,Vichy Normaderm Cleansing Gel (100ml),NA,Vichy_Normaderm_Cleansing_Gel__100ml_
+509,VICHY,NA,Vichy Normaderm Total Mat (30ml),NA,Vichy_Normaderm_Total_Mat__30ml_
+510,NA,NA,Wockhardt Vitix Gel (50ml),NA,Wockhardt_Vitix_Gel__50ml_
+511,KSHIPRA,NA,Xylap Cram,NA,Xylap_Cram
+512,NA,NA,ZoMultiTheraphy Hydroquine System,NA,ZoMultiTheraphy_Hydroquine_System
+513,NA,NA,ZoNonHydroquinone Hyperpigmentation,NA,ZoNonHydroquinone__Hyperpigmentation
